@@ -156,14 +156,14 @@ namespace ZeriMod.Modules.Survivors
                 keywordTokens = new string[] { "KEYWORD_AGILE" }
             });
 
-            Modules.Skills.AddSecondarySkills(bodyPrefab, shootSkillDef);
+            Skills.AddSecondarySkills(bodyPrefab, shootSkillDef);
 
-            SkillDef rollSkillDef = Modules.Skills.CreateSkillDef(new SkillDefInfo
+            SkillDef rollSkillDef = Skills.CreateSkillDef(new SkillDefInfo
             {
                 skillName = prefix + "_ZERI_UTILITY_ROLL_NAME",
                 skillNameToken = prefix + "_ZERI_UTILITY_ROLL_NAME",
                 skillDescriptionToken = prefix + "_ZERI_UTILITY_ROLL_DESCRIPTION",
-                skillIcon = Modules.Assets.mainAssetBundle.LoadAsset<Sprite>("zerie"),
+                skillIcon = Assets.mainAssetBundle.LoadAsset<Sprite>("zerie"),
                 activationState = new EntityStates.SerializableEntityStateType(typeof(SkillStates.SparkSurge)),
                 activationStateMachineName = "Body",
                 baseMaxStock = 1,
@@ -182,14 +182,14 @@ namespace ZeriMod.Modules.Survivors
                 stockToConsume = 1
             });
 
-            Modules.Skills.AddUtilitySkills(bodyPrefab, rollSkillDef);
+            Skills.AddUtilitySkills(bodyPrefab, rollSkillDef);
 
-            SkillDef bombSkillDef = Modules.Skills.CreateSkillDef(new SkillDefInfo
+            SkillDef bombSkillDef = Skills.CreateSkillDef(new SkillDefInfo
             {
                 skillName = prefix + "_ZERI_SPECIAL_BOMB_NAME",
                 skillNameToken = prefix + "_ZERI_SPECIAL_BOMB_NAME",
                 skillDescriptionToken = prefix + "_ZERI_SPECIAL_BOMB_DESCRIPTION",
-                skillIcon = Modules.Assets.mainAssetBundle.LoadAsset<Sprite>("zerir"),
+                skillIcon = Assets.mainAssetBundle.LoadAsset<Sprite>("zerir"),
                 activationState = new EntityStates.SerializableEntityStateType(typeof(SkillStates.LightningCrash)),
                 activationStateMachineName = "Slide",
                 baseMaxStock = 1,
@@ -208,7 +208,7 @@ namespace ZeriMod.Modules.Survivors
                 stockToConsume = 1
             });
 
-            Modules.Skills.AddSpecialSkills(bodyPrefab, bombSkillDef);
+            Skills.AddSpecialSkills(bodyPrefab, bombSkillDef);
         }
         
         public override void InitializeSkins()

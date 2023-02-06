@@ -9,14 +9,23 @@ namespace ZeriMod.Modules
     {
         internal static void RegisterStates()
         {
-            Modules.Content.AddEntityState(typeof(BaseMeleeAttack));
-            Modules.Content.AddEntityState(typeof(SlashCombo));
+            Content.AddEntityState(typeof(BaseMeleeAttack));
+            Content.AddEntityState(typeof(SlashCombo));
 
-            Modules.Content.AddEntityState(typeof(Shoot));
+            Content.AddEntityState(typeof(Shoot));
 
-            Modules.Content.AddEntityState(typeof(Roll));
+            Content.AddEntityState(typeof(Roll));
 
-            Modules.Content.AddEntityState(typeof(ThrowBomb));
+            Content.AddEntityState(typeof(ThrowBomb));
+
+
+            Content.AddEntityState(typeof(BurstFire));
+            Content.AddEntityState(typeof(LightningCrash));
+
+            Content.AddEntityState(typeof(SparkSurge));
+
+            Content.AddEntityState(typeof(UltrashockLaser));
+
         }
     }
 }

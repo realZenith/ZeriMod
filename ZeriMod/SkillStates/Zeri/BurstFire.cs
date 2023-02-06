@@ -44,7 +44,7 @@ namespace ZeriMod.SkillStates
             {
                 this.hasFired = true;
 
-                base.characterBody.AddSpreadBloom(1.5f);
+                base.characterBody.AddSpreadBloom(15f);
                 EffectManager.SimpleMuzzleFlash(EntityStates.Commando.CommandoWeapon.FirePistol2.muzzleEffectPrefab, base.gameObject, this.muzzleString, false);
                 Util.PlaySound("HenryShootPistol", base.gameObject);
 
@@ -66,8 +66,8 @@ namespace ZeriMod.SkillStates
                         maxDistance = 450f,
                         force = Shoot.force,
                         hitMask = LayerIndex.CommonMasks.bullet,
-                        minSpread = 3f,
-                        maxSpread = 15f,
+                        minSpread = 15f,
+                        maxSpread = 45f,
                         isCrit = base.RollCrit(),
                         owner = base.gameObject,
                         muzzleName = muzzleString,
