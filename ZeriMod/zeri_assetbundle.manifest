@@ -1,0 +1,435 @@
+ManifestFileVersion: 0
+CRC: 3680840919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5954440d9ba1638c04287cd97227fb7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ff96ee0c2e51cad2def339b55c7c6e6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a68da65c907acb4eb4dbcd042f172e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc41cd48bee14034db80323ab44fbd3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 261c50d8a80898e4ebf2e8e415ea6766, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 751bd37d2e55f5f448dbb0d97812d9ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa47b7602b600164193dcf1b19020b19, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 319
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HenryAssets/Animation/maskAimBazooka.mask
+- Assets/HenryAssets/Zeri/VFX/particles/3026_items_streaks.dds
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/DrippingFlames.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/common_kogmaw_skin05_w_tar_flash.dds
+- Assets/HenryAssets/Zeri/icons/zeri_circle_10.pie_c_12_13.png
+- Assets/HenryAssets/Icons/texShotgunIcon.png
+- Assets/HenryAssets/VFX/Materials/matAnimeShapes.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/common_color-hold.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_shockwave01_color.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_smoke2x2_02.dds
+- Assets/HenryAssets/VFX/Textures/texPunchImpactShadow.png
+- Assets/HenryAssets/Zeri/icons/zerixekko.png
+- Assets/HenryAssets/Materials/matBazookaRocket.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_bullet_front_lessblurtip.dds
+- Assets/HenryAssets/Icons/texPrimaryIcon.png
+- Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffNormalSheet.tif
+- Assets/HenryAssets/VFX/Textures/texHenrySwing2.png
+- Assets/HenryAssets/Icons/texBazookaIcon.png
+- Assets/HenryAssets/Zeri/VFX/particles/defaultfalloff.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_missilehead01_blur.dds
+- Assets/HenryAssets/Icons/texMasteryAchievement.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_muzzleflash03_core.dds
+- Assets/HenryAssets/Zeri/materials/matZeriGun_Skin1.mat
+- Assets/HenryAssets/Mesh/meshHenry.mesh
+- Assets/HenryAssets/Zeri/VFX/Texture/aura_self.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_chainlightning01_erode.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_electricity02.dds
+- Assets/HenryAssets/HenryDisplay.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_linear_vertical04.dds
+- Assets/HenryAssets/VFX/Mesh/meshBoxingGlove.mesh
+- Assets/HenryAssets/Zeri/icons/zeriphaste.png
+- Assets/HenryAssets/Zeri/icons/zeriqe.png
+- Assets/HenryAssets/Materials/matHenry.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_electricity02_vertical_blur.dds
+- Assets/HenryAssets/VFX/FistBarrageEffect.prefab
+- Assets/HenryAssets/Textures/texHenryAlt.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_glow.dds
+- Assets/HenryAssets/Icons/texPassiveIcon.png
+- Assets/HenryAssets/VFX/Textures/texFire.tga
+- Assets/HenryAssets/Animation/clips/Jump.anim
+- Assets/HenryAssets/Zeri/textures/zeri_skin1_ulthair_tx_cm.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_wirlpool01.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_glow08.dds
+- Assets/HenryAssets/Zeri/icons/zeri_circle_10.pie_c_12_11.dds
+- Assets/HenryAssets/Mesh/meshHenryNeo.mesh
+- Assets/HenryAssets/Zeri/thistime_realzeri.fbx
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_linear_vertical02.dds
+- Assets/HenryAssets/Zeri/icons/zeri_circle_0.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_electricity02_alphablend.dds
+- Assets/EffectExamples/FireExplosionEffects/Materials/SmokeLightParticle.mat
+- Assets/HenryAssets/Zeri/icons/zeriw.png
+- Assets/HenryAssets/Animation/clips/WalkR.anim
+- Assets/HenryAssets/VFX/HenryDustEffect.prefab
+- Assets/HenryAssets/Animation/clips/SprintL.anim
+- Assets/HenryAssets/Materials/matRebellion.mat
+- Assets/HenryAssets/VFX/Materials/matSmoke.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_speedline.dds
+- Assets/HenryAssets/VFX/Textures/texSwingEffect.png
+- Assets/HenryAssets/Zeri/textures/zeri_skin1_gun_tx_cm.dds
+- Assets/HenryAssets/Textures/texBoxingGlove.png
+- Assets/HenryAssets/Zeri/mdlZeri.prefab
+- Assets/HenryAssets/Animation/maskAimYaw.mask
+- Assets/HenryAssets/Icons/texDanteAchievement.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_missilehead01.dds
+- Assets/HenryAssets/Icons/texSecondaryIcon.png
+- Assets/HenryAssets/Animation/animHenry.controller
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_blur_box.dds
+- Assets/HenryAssets/VFX/Materials/matHenrySwing2.mat
+- Assets/HenryAssets/Textures/texBazooka.png
+- Assets/HenryAssets/VFX/Textures/texRipple.png
+- Assets/HenryAssets/Zeri/textures/zeri_spikedhair_tx_cm.dds
+- Assets/HenryAssets/Zeri/icons/zerip.png
+- Assets/HenryAssets/VFX/ImpactHenrySlash.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_chainlightning01.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/ground_pool_erosion.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_hit01_vertical_core.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_linear_vertical05.dds
+- Assets/HenryAssets/VFX/Mesh/meshSwing.asset
+- Assets/HenryAssets/Zeri/VFX/particles/base_1q_smokeerode.tft_set7.dds
+- Assets/HenryAssets/Zeri/VFX/particles/3026_skin05_glow_03.tft_set7.dds
+- Assets/HenryAssets/VFX/HenryBazookaMuzzleFlash.prefab
+- Assets/HenryAssets/VFX/HenryFistSwingEffect.prefab
+- Assets/EffectExamples/FireExplosionEffects/Materials/FlameParticle.mat
+- Assets/HenryAssets/Mesh/meshVergil.mesh
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_bullet_front_blur.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_muzzleflash_backdrop.dds
+- Assets/HenryAssets/VFX/Textures/texFistSwing.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_smoke2x2_02_erode.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_dust01_erode.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/jayce_skin05_w_lightning03_bloom.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_vertical01.dds
+- Assets/HenryAssets/Animation/clips/LightImpact.anim
+- Assets/HenryAssets/Zeri/animZeriDisplay.controller
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_rainbowglow.dds
+- Assets/HenryAssets/Icons/texHenryAchievement.png
+- Assets/HenryAssets/Animation/clips/WalkB.anim
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesEffects.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_glow02.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_smoke2x2_erode.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_zoomlines_color.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_electricity02_colorgrad.dds
+- Assets/HenryAssets/Zeri/VFX/particles/3026_items_glow_05.tft_set8.dds
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesParticleEffect.prefab
+- Assets/EffectExamples/FireExplosionEffects/Materials/IgnitionFlameParticle.mat
+- Assets/EffectExamples/FireExplosionEffects/Materials/SmokeDarkParticle.mat
+- Assets/EffectExamples/FireExplosionEffects/Materials/DebrisParticle.mat
+- Assets/HenryAssets/Animation/maskGesture.mask
+- Assets/HenryAssets/VFX/Materials/matPunchImpact.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_linear_vertical01.dds
+- Assets/HenryAssets/Mesh/meshHenryAlt.mesh
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_dust01.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_missilehead01_tip.dds
+- Assets/HenryAssets/Textures/texHenryJedi.png
+- Assets/HenryAssets/Animation/clips/SprintR.anim
+- Assets/HenryAssets/Animation/animHenryMenu.controller
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_blur_box_soft.dds
+- Assets/HenryAssets/Icons/texVergilAchievement.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_e_dash.dds
+- Assets/HenryAssets/Textures/texShotgun.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_flash01.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_electricity02_half_blur.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_ba_muzzleflash_backdrop.dds
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/WallFlames.prefab
+- Assets/HenryAssets/Animation/clips/WalkL.anim
+- Assets/HenryAssets/Animation/maskImpact.mask
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_white_rgb.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_tar_sphere.dds
+- Assets/HenryAssets/Zeri/animZeri.controller
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/IgnitionFlame.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_bullet_front_lessblur.dds
+- Assets/HenryAssets/Zeri/VFX/particles/3026_items_star.tft_set7.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_linear_horizontal05.dds
+- Assets/HenryAssets/Zeri/icons/zeri_circle_3.png
+- Assets/EffectExamples/FireExplosionEffects/Textures/FlameRoundGreyParticleSheet.tif
+- Assets/EffectExamples/FireExplosionEffects/Textures/DebrisParticleSheet.png
+- Assets/HenryAssets/Animation/clips/Idle.anim
+- Assets/HenryAssets/VFX/BombExplosionEffect.prefab
+- Assets/HenryAssets/Animation/clips/Slash2.anim
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_rgb_02.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_mis_glowtrail02_sharper.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_electricity02_vertical.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/common_jayce_aura.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient05.dds
+- Assets/HenryAssets/Zeri/textures/zeri_gun_tx_cm.dds
+- Assets/HenryAssets/Mesh/meshYamato.mesh
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_electricity02_vertical_erode.dds
+- Assets/HenryAssets/VFX/Textures/texDust.png
+- Assets/HenryAssets/VFX/Textures/texHitSpark.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_hitcircle_erode.dds
+- Assets/HenryAssets/Materials/matBoxingGlove.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_indicator.dds
+- Assets/HenryAssets/Materials/matHenryAlt.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_electricity02_half_erode.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_shape03.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_electricity_4x4.dds
+- Assets/HenryAssets/Animation/clips/WalkF.anim
+- Assets/HenryAssets/VFX/Materials/matPunchImpactShadow.mat
+- Assets/HenryAssets/Materials/matDante.mat
+- Assets/EffectExamples/FireExplosionEffects/Materials/matShockwave.mat
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/PlasmaExplosionEffect.prefab
+- Assets/HenryAssets/Zeri/VFX/particles/15.pie_c_12_11.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_flicker.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_flare.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_electricity02.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_animeshapes02.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_missilehead01_tip.dds
+- Assets/HenryAssets/Zeri/icons/zeriqpassive.png
+- Assets/HenryAssets/Animation/maskLeftArm.mask
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_smokeerosion01.dds
+- Assets/HenryAssets/Mesh/MeshHenryGun.mesh
+- Assets/HenryAssets/Zeri/icons/zerir.png
+- Assets/HenryAssets/Zeri/materials/matZeriHairspike.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_missilehead01.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/common_distort-soft-shockwave.dds
+- Assets/HenryAssets/Animation/clips/DescendFast.anim
+- Assets/HenryAssets/HenryBazookaRocketGhost.prefab
+- Assets/HenryAssets/Icons/texScepterSpecialIcon.png
+- Assets/HenryAssets/Zeri/textures/zeri_base_tx_cm.dds
+- Assets/HenryAssets/VFX/Materials/matFistSwing.mat
+- Assets/HenryAssets/Mesh/meshDante.mesh
+- Assets/HenryAssets/VFX/Materials/matTrail.mat
+- Assets/HenryAssets/Materials/matHenryJedi.mat
+- Assets/HenryAssets/VFX/Materials/matHitSpark.mat
+- Assets/HenryAssets/Mesh/meshNeoCoat.mesh
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_muzzleflash_small.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_horizontal_grad.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_bokeh01.dds
+- Assets/HenryAssets/Animation/clips/ShootGun.anim
+- Assets/HenryAssets/Animation/clips/SprintF.anim
+- Assets/HenryAssets/Mesh/meshHenrySwordAlt.mesh
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_mis_glowtrail02.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_trail03_erod.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_p_shield_reveal.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/common_glow-soft.dds
+- Assets/HenryAssets/Zeri/VFX/Materials/black.pie_c_12_22.dds
+- Assets/HenryAssets/Textures/texHenry.png
+- Assets/HenryAssets/Icons/texBazookaOutIcon.png
+- Assets/HenryAssets/Animation/maskAimPitch.mask
+- Assets/HenryAssets/Icons/texUziIcon.png
+- Assets/HenryAssets/Zeri/VFX/Texture/morgana_skin06_q_tar_hot.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_e_lightning_flipbook.dds
+- Assets/HenryAssets/Zeri/VFX/particles/base_tft_dmg_skin15_minion_mis_cap_mult.dds
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/Flames.prefab
+- Assets/HenryAssets/Zeri/VFX/particles/3026_items_ball32_02.tft_booms_set7_5.dds
+- Assets/HenryAssets/Materials/matHenryNeo.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_shield.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_stretchedglow.dds
+- Assets/HenryAssets/Zeri/icons/zeriqre.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_distortion_soundwaves_01.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_glow07.dds
+- Assets/HenryAssets/VFX/Mesh/meshPunchShockwave.mesh
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_shockwave02_color.dds
+- Assets/HenryAssets/Materials/matRoy.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_planalpha.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_hit01_vertical.dds
+- Assets/HenryAssets/Icons/texBazookaIconScepter.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_hitcircle.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/jhin_skin05_r_cas_distort.dds
+- Assets/HenryAssets/Textures/texHenryNeo.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_electricity02_half.dds
+- Assets/HenryAssets/Zeri/icons/zeri_circle_0.png
+- Assets/HenryAssets/Zeri/VFX/Texture/ball01.dds
+- Assets/HenryAssets/Icons/texMainSkin.png
+- Assets/HenryAssets/Icons/texBoxingGlovesIcon.png
+- Assets/HenryAssets/Materials/matVergil.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_lightning_flipbook.dds
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/FlameThrowerEffect.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_glow06.dds
+- Assets/HenryAssets/Materials/matHitboxPreview.mat
+- Assets/HenryAssets/Animation/clips/IdleIn.anim
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_er_missilehead_tip.dds
+- Assets/HenryAssets/VFX/Materials/matSwingShadow.mat
+- Assets/HenryAssets/Zeri/icons/zerie.png
+- Assets/HenryAssets/Textures/texHenryJediEmission.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_radial01.dds
+- Assets/HenryAssets/Mesh/meshDanteCoat.mesh
+- Assets/HenryAssets/Animation/clips/RestIdle.anim
+- Assets/HenryAssets/Zeri/materials/matZeriBase_Skin1.mat
+- Assets/HenryAssets/Animation/clips/ThrowBomb.anim
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_muzzleflash03_nocolor.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_mis_sparkles.dds
+- Assets/HenryAssets/Icons/texHenryIcon.png
+- Assets/HenryAssets/Zeri/VFX/particles/3026_items_noise_02.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_blur_box_sharp.dds
+- Assets/HenryAssets/Icons/texUtilityIcon.png
+- Assets/HenryAssets/Animation/clips/Ascend.anim
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_wirlpool02.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_mult01.dds
+- Assets/HenryAssets/VFX/Materials/matPunchEffect.mat
+- Assets/HenryAssets/VFX/Textures/texPunchImpact.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_ray.dds
+- Assets/HenryAssets/mdlHenry.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_e_dash_mask.dds
+- Assets/HenryAssets/Mesh/meshRebellion.mesh
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_electricity02_erode.dds
+- Assets/HenryAssets/Zeri/ZeriDisplay.prefab
+- Assets/HenryAssets/VFX/Materials/matHitSparkPunch.mat
+- Assets/HenryAssets/Zeri/icons/zeriqpassivecharged.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_smoke01.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_gradient02.dds
+- Assets/HenryAssets/Zeri/materials/matZeriGun.mat
+- Assets/HenryAssets/VFX/Materials/matSwingEffect.mat
+- Assets/HenryAssets/Zeri/VFX/particles/3026_items_cloudy_03.tft_set7.dds
+- Assets/EffectExamples/FireExplosionEffects/Materials/PlasmaExplosionParticle.mat
+- Assets/HenryAssets/Zeri/VFX/particles/defaultcoloroverlifetime.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_linear_horizontal04.dds
+- Assets/HenryAssets/Zeri/VFX/particles/3026_items_color.tft_set7.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_noise01.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_er_missilehead.dds
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/TorchEffect.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/sparks.dds
+- Assets/HenryAssets/Mesh/meshHenrySword.mesh
+- Assets/HenryAssets/VFX/Materials/matEmbers.mat
+- Assets/HenryAssets/Animation/clips/AimYaw.anim
+- Assets/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat
+- Assets/HenryAssets/Zeri/VFX/particles/base_glowring.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_alpha_backdrop.dds
+- Assets/HenryAssets/HenryBombGhost.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/jayce_skin05_w_lightningerosion03.dds
+- Assets/HenryAssets/Mesh/meshPistol.mesh
+- Assets/HenryAssets/Icons/texStingerIcon.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_cas_distort.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_hit02_vertical.dds
+- Assets/HenryAssets/Textures/texHenryVergil.png
+- Assets/HenryAssets/Zeri/VFX/Texture/helix.dds
+- Assets/EffectExamples/FireExplosionEffects/Materials/PlasmaFireParticle.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_ember.dds
+- Assets/HenryAssets/Mesh/meshUzi.mesh
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_trail03.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_electricity02_nocolor.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient06.dds
+- Assets/HenryAssets/VFX/Materials/matSlash.mat
+- Assets/HenryAssets/Icons/texPistolIcon.png
+- Assets/HenryAssets/VFX/Materials/matDust.mat
+- Assets/HenryAssets/VFX/Textures/texSmoke.png
+- Assets/HenryAssets/Zeri/icons/zeri_circle_1.dds
+- Assets/HenryAssets/VFX/Textures/texEmbers.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_smoke2x2.dds
+- Assets/HenryAssets/Mesh/meshVergilCoat.mesh
+- Assets/HenryAssets/VFX/Textures/texLightning.tif
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_beamgrad.dds
+- Assets/HenryAssets/Zeri/icons/zeri_square_0.dds
+- Assets/HenryAssets/Animation/clips/RestIdleIn.anim
+- Assets/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat
+- Assets/HenryAssets/VFX/Materials/matRipple.mat
+- Assets/HenryAssets/Animation/clips/DefaultPose.anim
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_linear_vertical_half.dds
+- Assets/HenryAssets/Zeri/VFX/Materials/stepsmask.dds
+- Assets/HenryAssets/Materials/matShotgun.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/distort-pinch.dds
+- Assets/HenryAssets/Animation/clips/IdleAdditive.anim
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/SmokeEffect.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_shoes_tx.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_color.dds
+- Assets/HenryAssets/Icons/texBazookaFireIcon.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient03.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_missilehead01_blur.dds
+- Assets/HenryAssets/VFX/Materials/matFire.mat
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_smoke_2_erosion.dds
+- Assets/HenryAssets/Icons/texGrandMasteryAchievement.png
+- Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuff02ParticleSheet.tif
+- Assets/EffectExamples/FireExplosionEffects/Textures/RoundSoftParticle.tif
+- Assets/HenryAssets/Animation/maskBandana.mask
+- Assets/HenryAssets/Animation/clips/MenuIdle.anim
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_glow01.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_ring_smooth.dds
+- Assets/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat
+- Assets/EffectExamples/FireExplosionEffects/Textures/FlameRoundParticleSheet.tif
+- Assets/HenryAssets/Zeri/materials/matZeriBase.mat
+- Assets/HenryAssets/Materials/matBazooka.mat
+- Assets/HenryAssets/VFX/HenrySwordSwingEffect.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/jhin_skin05_r_bullet_front.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_electricity02_erode.dds
+- Assets/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheet.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_mis_glowtrail.dds
+- Assets/HenryAssets/Animation/clips/Descend.anim
+- Assets/HenryAssets/Textures/texHenryDante.png
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_e_shell_rgb.dds
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/SmallExplosionEffect.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/jayce_skin05_w_lightning03.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_edgeglow.dds
+- Assets/HenryAssets/Animation/clips/AimPitch.anim
+- Assets/HenryAssets/Zeri/materials/matZeriHair_Skin1.mat
+- Assets/EffectExamples/FireExplosionEffects/Textures/FlameParticleSheet.tif
+- Assets/HenryAssets/Zeri/VFX/particles/tft_smoke_erosion.tft_set7.dds
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_rgb_03.dds
+- Assets/HenryAssets/Zeri/textures/zeri_skin1_tx_cm.dds
+- Assets/HenryAssets/VFX/Textures/texSlash.png
+- Assets/HenryAssets/Zeri/icons/zeriq.png
+- Assets/HenryAssets/Icons/texSpecialIcon.png
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/BigExplosionEffect.prefab
+- Assets/HenryAssets/Textures/texHenryDanteEmission.png
+- Assets/HenryAssets/Animation/clips/MenuIdleIn.anim
+- Assets/HenryAssets/VFX/ImpactHenryPunch.prefab
+- Assets/EffectExamples/FireExplosionEffects/Prefabs/FlameSmoke.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_caustic_motionblur.dds
+- Assets/HenryAssets/Zeri/icons/zeriqr.png
+- Assets/HenryAssets/Animation/clips/Slash1.anim
+- Assets/HenryAssets/VFX/HenryBazookaExplosionEffect.prefab
+- Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_gradient_linear_vertical07.dds
+- Assets/HenryAssets/Animation/clips/Roll.anim
+Dependencies: []

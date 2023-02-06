@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\super\source\repos\ZeriMod\ZeriSounds\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\super\source\repos\ZeriMod\ZeriSounds\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\super\source\repos\ZeriMod\ZeriSounds\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3929171223">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2005355543" Language="SFX" Hash="3761887960">
+			<ObjectPath>\SoundBanks\Default Work Unit\ZeriBank</ObjectPath>
+			<ShortName>ZeriBank</ShortName>
+			<Path>ZeriBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4073302629" Name="Play_iamlightning" ObjectPath="\Events\Default Work Unit\Play_iamlightning">
+					<IncludedMemoryFiles>
+						<File Id="820419053" Language="SFX">
+							<ShortName>228088221.wav</ShortName>
+							<Path>SFX\228088221_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2557951181" Name="Play_iamlightning2" ObjectPath="\Events\Default Work Unit\Play_iamlightning2">
+					<IncludedMemoryFiles>
+						<File Id="212389616" Language="SFX">
+							<ShortName>746637048.wav</ShortName>
+							<Path>SFX\746637048_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3902841560" Name="Play_lightningfresh" ObjectPath="\Events\Default Work Unit\Play_lightningfresh">
+					<IncludedMemoryFiles>
+						<File Id="351916088" Language="SFX">
+							<ShortName>149658338.wav</ShortName>
+							<Path>SFX\149658338_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="228697971" Name="Play_skille_gotazip" ObjectPath="\Events\Default Work Unit\Play_skille_gotazip">
+					<IncludedMemoryFiles>
+						<File Id="687435932" Language="SFX">
+							<ShortName>396161513.wav</ShortName>
+							<Path>SFX\396161513_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2367972384" Name="Play_skille_gotime" ObjectPath="\Events\Default Work Unit\Play_skille_gotime">
+					<IncludedMemoryFiles>
+						<File Id="814576118" Language="SFX">
+							<ShortName>417382378.wav</ShortName>
+							<Path>SFX\417382378_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3738410668" Name="Play_skille_hehbye" ObjectPath="\Events\Default Work Unit\Play_skille_hehbye">
+					<IncludedMemoryFiles>
+						<File Id="615970316" Language="SFX">
+							<ShortName>34967713.wav</ShortName>
+							<Path>SFX\34967713_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="408021140" Name="Play_skille_huh" ObjectPath="\Events\Default Work Unit\Play_skille_huh">
+					<IncludedMemoryFiles>
+						<File Id="378934257" Language="SFX">
+							<ShortName>817262997.wav</ShortName>
+							<Path>SFX\817262997_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379543313" Name="Play_skille_ofigo" ObjectPath="\Events\Default Work Unit\Play_skille_ofigo">
+					<IncludedMemoryFiles>
+						<File Id="431996757" Language="SFX">
+							<ShortName>1045531416.wav</ShortName>
+							<Path>SFX\1045531416_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3254017396" Name="Play_skille_seeya" ObjectPath="\Events\Default Work Unit\Play_skille_seeya">
+					<IncludedMemoryFiles>
+						<File Id="827428085" Language="SFX">
+							<ShortName>938182458.wav</ShortName>
+							<Path>SFX\938182458_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1534115992" Name="Play_skille_thatsmyq" ObjectPath="\Events\Default Work Unit\Play_skille_thatsmyq">
+					<IncludedMemoryFiles>
+						<File Id="760155917" Language="SFX">
+							<ShortName>892710127.wav</ShortName>
+							<Path>SFX\892710127_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="875438393" Name="Play_skillw_aimandfire" ObjectPath="\Events\Default Work Unit\Play_skillw_aimandfire">
+					<IncludedMemoryFiles>
+						<File Id="478560933" Language="SFX">
+							<ShortName>293726846.wav</ShortName>
+							<Path>SFX\293726846_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="822342750" Name="Play_skillw_boom" ObjectPath="\Events\Default Work Unit\Play_skillw_boom">
+					<IncludedMemoryFiles>
+						<File Id="296640571" Language="SFX">
+							<ShortName>801290912.wav</ShortName>
+							<Path>SFX\801290912_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4161095573" Name="Play_skillw_hereitcomes" ObjectPath="\Events\Default Work Unit\Play_skillw_hereitcomes">
+					<IncludedMemoryFiles>
+						<File Id="238614119" Language="SFX">
+							<ShortName>691579459.wav</ShortName>
+							<Path>SFX\691579459_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1580153636" Name="Play_skillw_letitfly" ObjectPath="\Events\Default Work Unit\Play_skillw_letitfly">
+					<IncludedMemoryFiles>
+						<File Id="424945321" Language="SFX">
+							<ShortName>362769563.wav</ShortName>
+							<Path>SFX\362769563_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2410592752" Name="Play_skillw_ultrashocklaser" ObjectPath="\Events\Default Work Unit\Play_skillw_ultrashocklaser">
+					<IncludedMemoryFiles>
+						<File Id="1048966224" Language="SFX">
+							<ShortName>690016333.wav</ShortName>
+							<Path>SFX\690016333_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

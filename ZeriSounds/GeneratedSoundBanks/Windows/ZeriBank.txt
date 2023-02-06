@@ -1,0 +1,34 @@
+Event	ID	Name			Wwise Object Path	Notes
+	228697971	Play_skille_gotazip			\Default Work Unit\Play_skille_gotazip	
+	379543313	Play_skille_ofigo			\Default Work Unit\Play_skille_ofigo	
+	408021140	Play_skille_huh			\Default Work Unit\Play_skille_huh	
+	822342750	Play_skillw_boom			\Default Work Unit\Play_skillw_boom	
+	875438393	Play_skillw_aimandfire			\Default Work Unit\Play_skillw_aimandfire	
+	1534115992	Play_skille_thatsmyq			\Default Work Unit\Play_skille_thatsmyq	
+	1580153636	Play_skillw_letitfly			\Default Work Unit\Play_skillw_letitfly	
+	2367972384	Play_skille_gotime			\Default Work Unit\Play_skille_gotime	
+	2410592752	Play_skillw_ultrashocklaser			\Default Work Unit\Play_skillw_ultrashocklaser	
+	2557951181	Play_iamlightning2			\Default Work Unit\Play_iamlightning2	
+	3254017396	Play_skille_seeya			\Default Work Unit\Play_skille_seeya	
+	3738410668	Play_skille_hehbye			\Default Work Unit\Play_skille_hehbye	
+	3902841560	Play_lightningfresh			\Default Work Unit\Play_lightningfresh	
+	4073302629	Play_iamlightning			\Default Work Unit\Play_iamlightning	
+	4161095573	Play_skillw_hereitcomes			\Default Work Unit\Play_skillw_hereitcomes	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	212389616	iamlightning2	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\746637048_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillR\iamlightning2		172224
+	238614119	hereitcomes	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\691579459_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillW\hereitcomes		134592
+	296640571	boom	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\801290912_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillW\boom		97984
+	351916088	lightningfresh	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\149658338_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillR\lightningfresh		181440
+	378934257	huh	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\817262997_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillE\huh		75200
+	424945321	letitfly	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\362769563_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillW\letitfly		126912
+	431996757	ofigo	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\1045531416_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillE\ofigo		116416
+	478560933	aimandfire	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\293726846_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillW\aimandfire		135616
+	615970316	hehbye	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\34967713_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillE\hehbye		118208
+	687435932	gotazip	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\396161513_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillE\gotazip		85184
+	760155917	thatsmyq	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\892710127_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillE\thatsmyq		117952
+	814576118	gotime	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\417382378_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillE\gotime		126656
+	820419053	iamlightning	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\228088221_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillR\iamlightning		189120
+	827428085	SeeYa	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\938182458_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillE\SeeYa		112064
+	1048966224	ultrashocklaser	C:\Users\super\source\repos\ZeriMod\ZeriSounds\.cache\Windows\SFX\690016333_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vo Mixer\VO\SkillW\ultrashocklaser		158656
+

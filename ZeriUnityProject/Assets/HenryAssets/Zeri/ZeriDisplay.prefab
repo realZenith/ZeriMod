@@ -1,0 +1,532 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!95 &5340228077246162101
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7776040273623712399}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 556db4bec6f4dd148be04e7fedac562d, type: 3}
+  m_Controller: {fileID: 9100000, guid: 4b713bc337f0ef94ab8321c4ef308e86, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &5139055713269762570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7776040273623712399}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 261c50d8a80898e4ebf2e8e415ea6766, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  transformPairs:
+  - name: MainHurtbox
+    transform: {fileID: 6358674382828224713, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Body
+    transform: {fileID: 3120160559517624037, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Gun
+    transform: {fileID: 2223184432004710575, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Hair
+    transform: {fileID: 1237799415226862327, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: HairSpike
+    transform: {fileID: 7944641202742478246, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Shoes
+    transform: {fileID: 2341042091856068883, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: model
+    transform: {fileID: 7030228206084163893, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Buffbone_Cstm_Healthbar
+    transform: {fileID: 7802836466339540670, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Buffbone_Glb_Ground_Loc
+    transform: {fileID: 8452525349137854394, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Buffbone_Glb_Weapon_1
+    transform: {fileID: 5179836460893680536, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Buffbone_Glb_Weapon_2
+    transform: {fileID: 4890160386252739103, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Buffbone_Cstm_BeamGround_Loc
+    transform: {fileID: 3760749670059571298, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Buffbone_Glb_Center_Loc
+    transform: {fileID: 426012539471878272, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Buffbone_Glb_Layout_Loc
+    transform: {fileID: 6944002533555080112, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Buffbone_Glb_Overhead_Loc
+    transform: {fileID: 2801529875882968386, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Buffbone_Cstm_BeamGround_Loc
+    transform: {fileID: 3870467017666370200, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Buffbone_FootGround_Loc
+    transform: {fileID: 8486244748430004880, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Buffbone_Cstm_BeamGround_Loc
+    transform: {fileID: 6543198722636959161, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Buffbone_FootGround_Loc
+    transform: {fileID: 1387858197909522021, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Root
+    transform: {fileID: 3631341467636587782, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Pelvis
+    transform: {fileID: 3933643362240581709, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Spine1
+    transform: {fileID: 4441686318077287056, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Hip
+    transform: {fileID: 2055861995285460093, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Hip
+    transform: {fileID: 1065389029024842033, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_KneeUpper
+    transform: {fileID: 3771425593528003520, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_KneeLower
+    transform: {fileID: 8071097560131430834, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_KneeUpper
+    transform: {fileID: 4688636769711129244, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_KneeLower
+    transform: {fileID: 7773238062550368554, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Buffbone_Glb_Foot_Loc
+    transform: {fileID: 3336964050306723728, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Toe
+    transform: {fileID: 1483443199100370137, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Buffbone_Glb_Foot_Loc
+    transform: {fileID: 5063312448963403788, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Toe
+    transform: {fileID: 3031148651753429008, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Foot
+    transform: {fileID: 762130312955587255, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Spine2
+    transform: {fileID: 3473121864151530802, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Chest
+    transform: {fileID: 1557574006848142837, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Backpack
+    transform: {fileID: 8116156245670204710, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Lo_Backpack_Coil
+    transform: {fileID: 7990274342995400690, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Up_Backpack_Coil
+    transform: {fileID: 3061050477005980889, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Lo_Backpack_Coil
+    transform: {fileID: 546176919293483979, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Up_Backpack_Coil
+    transform: {fileID: 6803919247824484458, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Buffbone_Glb_Chest_Loc
+    transform: {fileID: 1403263564747645362, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Clavicle
+    transform: {fileID: 679281545752115349, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Shoulder
+    transform: {fileID: 4610338577945625, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Hand
+    transform: {fileID: 8987640374285031111, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Buffbone_Glb_Ablility_Loc
+    transform: {fileID: 9062348774223828973, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Buffbone_Glb_Hand_Loc
+    transform: {fileID: 9013540162033324587, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Index1
+    transform: {fileID: 6895026681728854851, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Index2
+    transform: {fileID: 1636178739886451766, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Index3
+    transform: {fileID: 6051555246163392861, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Middle1
+    transform: {fileID: 31552097033705404, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Middle2
+    transform: {fileID: 359966445442036695, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Middle3
+    transform: {fileID: 9130391099032593431, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Pinky1
+    transform: {fileID: 2152355577906637042, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Pinky2
+    transform: {fileID: 1942594078422718996, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Pinky3
+    transform: {fileID: 2927106334520364651, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Thumb1
+    transform: {fileID: 6519978267633548321, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Thumb2
+    transform: {fileID: 1689762794466905950, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Thumb3
+    transform: {fileID: 6979557993490971305, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Jacket_Back_Root
+    transform: {fileID: 2717839230531471550, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Jacket_Back1
+    transform: {fileID: 6971819379039433055, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Jacket_Back2
+    transform: {fileID: 2603326756650748238, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Jacket_Back3
+    transform: {fileID: 7899088609526121804, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Jacket_Front1
+    transform: {fileID: 3779934223790745933, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Jacket_Front_Root
+    transform: {fileID: 7312769380921096021, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Jacket_Front2
+    transform: {fileID: 6756648923130821368, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Jacket_Front3
+    transform: {fileID: 7304138085541008093, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Jacket_Front4
+    transform: {fileID: 5875070479856561530, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Rear_Collar1
+    transform: {fileID: 505017145307806906, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Rear_Collar2
+    transform: {fileID: 3477323605621803835, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Side_Collar1
+    transform: {fileID: 6927051458041432506, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Side_Collar2
+    transform: {fileID: 8012959682413736443, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Neck
+    transform: {fileID: 4196032674446814513, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Head
+    transform: {fileID: 391303943203974543, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Buffbone_Glb_Head_Loc
+    transform: {fileID: 1002720893762336278, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_MidFace
+    transform: {fileID: 2692788881857188124, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Rear_Hair1
+    transform: {fileID: 1704088152801009369, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Rear_Hair2
+    transform: {fileID: 4609343206731993851, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Up_Lip
+    transform: {fileID: 2392032963122164785, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Jaw
+    transform: {fileID: 8623673305824284357, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: C_Lo_Lip
+    transform: {fileID: 2561366074865126772, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Brow
+    transform: {fileID: 5918935336679693856, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Eye
+    transform: {fileID: 8689189883487196789, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Eyelid_Lo
+    transform: {fileID: 428984416647501501, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Eyelid_Up
+    transform: {fileID: 1834401079115680796, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Front_Hair1
+    transform: {fileID: 101918462873589607, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Front_Hair2
+    transform: {fileID: 6191402481493479272, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_MouthCrnr
+    transform: {fileID: 6998114832673230111, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Top_Hair1
+    transform: {fileID: 5794232611001747990, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Top_Hair2
+    transform: {fileID: 7533492328109660672, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Top_Hair_Spikes
+    transform: {fileID: 8191498672811429363, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Brow
+    transform: {fileID: 727949866747468185, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Eye
+    transform: {fileID: 1973379130357482258, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Eyelid_Lo
+    transform: {fileID: 143573080039153654, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Eyelid_Up
+    transform: {fileID: 5605075032754140135, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Front_Hair1
+    transform: {fileID: 1809993292411637177, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Front_Hair2
+    transform: {fileID: 3104352197693311579, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_MouthCrnr
+    transform: {fileID: 4918062020327949560, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Top_Hair1
+    transform: {fileID: 7836309922535552148, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Top_Hair2
+    transform: {fileID: 3226795180258329743, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Top_Hair_Spikes
+    transform: {fileID: 2338998036573087593, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Clavicle
+    transform: {fileID: 3080870309751055799, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Shoulder
+    transform: {fileID: 1449644313556112120, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Elbow
+    transform: {fileID: 4575747608657686637, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Hand
+    transform: {fileID: 7233091006087536566, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Buffbone_Glb_Ablility_Loc
+    transform: {fileID: 8031232424994247746, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Buffbone_Glb_Hand_Loc
+    transform: {fileID: 8424300192144685010, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Index1
+    transform: {fileID: 3349282926131532400, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Index2
+    transform: {fileID: 1142250043752583233, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Index3
+    transform: {fileID: 7926654401440237650, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Middle1
+    transform: {fileID: 6381469305952488266, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Middle2
+    transform: {fileID: 1793190487981303407, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Middle3
+    transform: {fileID: 8799148328620114974, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Pinky1
+    transform: {fileID: 6950176850335606372, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Pinky2
+    transform: {fileID: 1036995524953598193, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Pinky3
+    transform: {fileID: 3678320943365414653, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Ring1
+    transform: {fileID: 1262915635886135079, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Ring2
+    transform: {fileID: 241027673864007173, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Ring3
+    transform: {fileID: 6642157787565852125, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Thumb1
+    transform: {fileID: 3349199100624861372, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Thumb2
+    transform: {fileID: 4219264682120504106, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Thumb3
+    transform: {fileID: 1891437244399244688, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Jacket_Back_Root
+    transform: {fileID: 1246890253583882858, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Jacket_Back1
+    transform: {fileID: 8437462308527533666, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Jacket_Back2
+    transform: {fileID: 3757045918915909600, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Jacket_Back3
+    transform: {fileID: 4981494065703676787, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Jacket_Front1
+    transform: {fileID: 460407950343913484, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Jacket_Front_Root
+    transform: {fileID: 3087563993696357964, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Jacket_Front2
+    transform: {fileID: 6240130186649614852, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Jacket_Front3
+    transform: {fileID: 2209547843056759785, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Jacket_Front4
+    transform: {fileID: 496703821125996397, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Rear_Collar2
+    transform: {fileID: 8471747526810302611, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Rear_Collar2
+    transform: {fileID: 9212641942195973479, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Side_Collar1
+    transform: {fileID: 7443403601349987821, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Side_Collar2
+    transform: {fileID: 5351973231349269316, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Weapon
+    transform: {fileID: 7502482208412061375, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Weapon_coil
+    transform: {fileID: 3395598933092382739, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: R_Weapon_coil
+    transform: {fileID: 2286289190972922291, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: Buffbone_Glb_Channel_Loc
+    transform: {fileID: 5490249446165205749, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Ring1
+    transform: {fileID: 198649325288213519, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Ring2
+    transform: {fileID: 3003667380568388314, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+  - name: L_Ring3
+    transform: {fileID: 5754534416410574835, guid: fe38a9060d1102e45b9521638b3a6171,
+      type: 3}
+--- !u!1001 &7434144169908781022
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.8350377
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.1447155
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.78149
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2d8821a1852fb114296ad33568eedf5a,
+        type: 3}
+      propertyPath: m_Name
+      value: ZeriDisplay
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d8821a1852fb114296ad33568eedf5a, type: 3}
+--- !u!1 &7776040273623712399 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 2d8821a1852fb114296ad33568eedf5a,
+    type: 3}
+  m_PrefabInstance: {fileID: 7434144169908781022}
+  m_PrefabAsset: {fileID: 0}
